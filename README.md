@@ -1,2 +1,2 @@
 # JoinMessage
-plugin制作の第一弾。
+plugin制作の第一弾
